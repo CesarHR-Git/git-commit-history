@@ -1,6 +1,9 @@
 # git-commit-history
 Git-Commit-History is an app that shows git commit history on the same project I am working on
 
+## Preview
+
+
 ## To start this project
 - git clone https://github.com/CesarHR-Git/git-commit-history.git
 - Run: `npm install` once you've cloned this project
