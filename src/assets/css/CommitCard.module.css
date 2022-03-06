@@ -1,0 +1,28 @@
+/* Global values */
+:root {
+    --primaryFont: 'Quicksand', sans-serif;
+}
+
+.CommitCard {
+    position: relative;
+    list-style: none;
+    border-radius: 7px;
+    height: 120px;
+    width: 85%;
+    padding: .5rem;
+    background: rgb(51, 89, 158);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 2px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.CommitCard:hover {
+    opacity: 0.8;
+}
+
+.CommitCard p {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: var(--primaryFont);
+    text-align: left;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}

@@ -1,0 +1,22 @@
+/* Global values */
+:root {
+    --primaryFont: 'Quicksand', sans-serif;
+    --white: #FFFFFF;
+}
+
+.CommitGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 40px;
+    justify-content: center;
+    align-content: center;
+    margin-top: 1.5rem;
+}
+
+.title {
+    position: relative;
+    font-family: var(--primaryFont);
+    color: #FFFFFF;
+    margin-top: 10rem;
+    margin-left: 2.5rem;
+}
