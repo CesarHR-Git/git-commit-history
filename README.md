@@ -2,6 +2,7 @@
 Git-Commit-History is an app that shows git commit history on the same project I am working on
 
 ## Preview
+![Github API](https://user-images.githubusercontent.com/81395358/156945591-d67d56ba-dd76-43d8-9a40-ce09ddb964f9.jpg)
 
 
 ## To start this project
